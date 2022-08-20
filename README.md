@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raadsl
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Discord bot projects
+- 🌱 I’m currently working on multiple private projects
+- 💞️ I’m looking to collaborate on Discord bot  or Minecraft projects
 - 📫 You can DM me on discord `Raadsel#9398`
 
 <!---
