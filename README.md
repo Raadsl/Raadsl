@@ -11,8 +11,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://raadsel.is-a.dev](https://raadsel.is-a.dev)
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@Raadsel](https://replit.com/@Raadsel)
-
 - 📫 How to reach me **gh@jorik.email**
 
 <h3 align="left">Connect with me:</h3>
